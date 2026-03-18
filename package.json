@@ -1,0 +1,23 @@
+{
+  "name": "study_learn-playwright-automation",
+  "version": "1.0.0",
+  "description": "Learning playwright automation from a udemy course",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikas-gits-good/Study_Learn-Playwright-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vikas-gits-good/Study_Learn-Playwright-Automation/issues"
+  },
+  "homepage": "https://github.com/vikas-gits-good/Study_Learn-Playwright-Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
