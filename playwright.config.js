@@ -20,6 +20,7 @@ export default defineConfig({
     timeout: 5 * 1000,
   },
   use: {
-    browserName: "chromium",
+    browserName: "firefox",
+    headless: false,
   },
 });
